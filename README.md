@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi, I'm Krishna Geetha Ponnuru ðŸ‘‹
 
-<!--
-**geethaponnuru37/geethaponnuru37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior SAP MM Consultant** | SAP S/4HANA Â· Procurement Â· Materials Management Â· Supply Chain
 
-Here are some ideas to get you started:
+Senior SAP MM Consultant with **8+ years of experience** across Capgemini, Accenture, and IBM, delivering procurement, inventory management, and end-to-end supply chain solutions on SAP S/4HANA. I specialise in system configuration, business requirement analysis, data migration, and cross-functional collaboration that turns business needs into reliable, well-documented SAP design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### ðŸ”§ What I do
+
+- **SAP MM Configuration** â€” Procurement, Inventory Management, Material & Vendor Master, Pricing, Purchase Info Records, Contracts
+- **SAP S/4HANA** â€” Implementation experience including Bluefield conversion, data migration, and end-to-end P2P / O2C process design
+- **Master Data & Integration** â€” Master Data Governance (MDG), IDocs, EDI, ALE; synchronising MDG with regional SAP systems and resolving complex IDoc errors
+- **SAP Retail** â€” Article Master Data, Business Partner data, retail pricing and contracts (ALDI AHEAD programme)
+- **Testing & Support** â€” Functional specifications, regression & UAT testing, end-user training, and defect resolution
+
+#### ðŸ§° Core skills
+
+`SAP S/4HANA` &nbsp;`SAP MM` &nbsp;`SAP Retail` &nbsp;`SAP SD` &nbsp;`Procure-to-Pay (P2P)` &nbsp;`Order-to-Cash (O2C)` &nbsp;`Inventory Management` &nbsp;`MDG` &nbsp;`IDocs / EDI / ALE` &nbsp;`LSMW & Data Migration` &nbsp;`ServiceNow` &nbsp;`JIRA`
+
+#### ðŸ’¼ Experience highlights
+
+- **Capgemini** â€” Consultant on the ALDI AHEAD (ADM S4) retail programme: master data, retail pricing, contracts, MDG synchronisation, and IDoc management
+- **Accenture** â€” Application Development Senior Analyst on the Telia IDS AMS project: SAP MM support, quality assurance, and defect resolution
+- **IBM** â€” SAP MM Functional Consultant on Shell and OMV (Oil & Gas): S/4HANA Bluefield implementation, MM & SD configuration, and end-user enablement
+
+#### ðŸŽ“ Education
+
+- Post Graduate Diploma in Human Resources Management â€” Alliance University, India (2020)
+- Bachelor of Technology â€” JNTU Kakinada, India (2016)
+
+#### ðŸ“« Connect with me
+
+- ðŸ“§ geethaponnuru37@gmail.com
