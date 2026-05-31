@@ -31,4 +31,5 @@ Senior SAP MM Consultant with **8+ years of experience** across Capgemini, Accen
 
 #### ðŸ“« Connect with me
 
+- ðŸ’¼ LinkedIn: [linkedin.com/in/geetha-ponnuru](https://www.linkedin.com/in/geetha-ponnuru-733a50127/)
 - ðŸ“§ geethaponnuru37@gmail.com
